@@ -1,1 +1,1 @@
-web: gunicorn usetodo.wsgi --logifile -
+web: gunicorn usetodo.wsgi --log-file -
